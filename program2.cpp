@@ -109,8 +109,7 @@ int main()
     Point polygon[4];
 
 
-for (int j=0;j<2;j++)
-{
+
 cout<< "polygon"<<j<<"\n"<<"[";
 
 for(int i=0; i<4; i++)
@@ -121,9 +120,7 @@ for(int i=0; i<4; i++)
 cout<<"]";
 	} 
 
-cout<<"]";
 
-}
     int n = sizeof(polygon)/sizeof(polygon[0]);
     Point p ;
     cout<<"point";

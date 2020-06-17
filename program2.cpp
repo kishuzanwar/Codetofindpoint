@@ -119,7 +119,7 @@ for(int i=0; i<4; i++)
                 cin>>polygon[i].y;
 cout<<"]";
 	} 
-
+cout<<"]";
 
     int n = sizeof(polygon)/sizeof(polygon[0]);
     Point p ;
